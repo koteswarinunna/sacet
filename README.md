@@ -13,7 +13,9 @@
 ## my skillset
 - ml
    - supervised
+      - types
    - unsupervised
+      - types
 - python
 - data analyst
 - java
