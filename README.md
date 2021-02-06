@@ -20,3 +20,10 @@
 - data analyst
 - java
 - c
+
+## frameworks
+1.django
+
+2.flask
+
+3.glass
