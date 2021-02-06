@@ -44,6 +44,11 @@ sno | name | college
 6 | pineapple | sacet
 7 | goa | sacet
 
+:smiley:
+:wink:
+:+1:
+
+
 
 
 
