@@ -39,6 +39,10 @@ sno | name | college
 1 | apple | sacet
 2 | mango | sacet
 3 | cherry | sacet
+4 | babana | sacet
+5 | pampakin | sacet
+6 | pineapple | sacet
+7 | goa | sacet
 
 
 
