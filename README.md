@@ -45,7 +45,9 @@ sno | name | college
 7 | goa | sacet
 
 :smiley:
+
 :wink:
+
 :+1:
 
 how to initilize git hub project
@@ -53,6 +55,7 @@ how to initilize git hub project
 - [x] git init
 - [ ] git remote
 - [ ] git branch
+
 
 
 
