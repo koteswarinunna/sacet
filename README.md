@@ -20,8 +20,7 @@
 - data analyst
 - java
 - c
-
-__
+___
 
 ## frameworks
 1.django
