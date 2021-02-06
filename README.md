@@ -48,7 +48,11 @@ sno | name | college
 :wink:
 :+1:
 
-
+how to initilize git hub project
+- [] git add .
+- [x] git init
+- [] git remote
+- [] git branch
 
 
 
