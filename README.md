@@ -10,6 +10,8 @@
 
 <img src='https://www.apssdc.in/home/images/apssdc_final.png' height=100 width=100>
 
+![APSSDc](https://www.apssdc.in/home/images/apssdc_final.png)
+
 ## my skillset
 - ml
    - supervised
@@ -60,7 +62,8 @@ how to initilize git hub project
 def add(a,b):
     print("the addition of a and b is:")
     add(3,4)
- ```````   
+ ``````` 
+ 
 
 
 
