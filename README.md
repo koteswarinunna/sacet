@@ -10,7 +10,7 @@
 
 <img src='https://www.apssdc.in/home/images/apssdc_final.png' height=100 width=100>
 
-![APSSDc](https://www.apssdc.in/home/images/apssdc_final.png)
+![APSSDC](https://www.apssdc.in/home/images/apssdc_final.png)
 
 ## my skillset
 - ml
@@ -64,6 +64,14 @@ def add(a,b):
     add(3,4)
  ``````` 
  
+ ```````c
+ #include<stdio.h>
+ #include<conio.h>
+ void main()
+ {
+ print("hello world");
+ }
+ ````````
 
 
 
